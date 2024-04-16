@@ -82,9 +82,13 @@ Members:
  
 ### :hammer_and_wrench: Tools :
 
-| Build System | Languages | Virtualization | Cloud Service |
-| ------------ | --------- | -------------- | ------------- |
-| <img src="https://img.shields.io/badge/Gradle-white?style=plastic&logo=gradle&logoColor=black" title="gradle" alt="gradle" height="30"/> | <img src="https://custom-icon-badges.demolab.com/badge/Java-white.svg?&sytle=plastic&logo=java" title="Java" alt="Java" height="30"/> | <img src="https://img.shields.io/badge/Docker-white?style=plastic&logo=docker&logoColor=blue" title="docker" alt="docker" height="30"/> | <img src="https://img.shields.io/badge/AWS-white?style=plastic&logo=amazon-aws&logoColor=black" title="AWS" alt="AWS" height="30"/> |
+| Cloud Service | Build System | Languages | Framework |
+| ------------- | ------------ | --------- | --------- |
+| <img src="https://img.shields.io/badge/AWS-white?style=plastic&logo=amazon-aws&logoColor=black" title="AWS" alt="AWS" height="30"/> | <img src="https://img.shields.io/badge/Gradle-white?style=plastic&logo=gradle&logoColor=black" title="gradle" alt="gradle" height="30"/> | <img src="https://custom-icon-badges.demolab.com/badge/Java-white.svg?sytle=plastic&logo=java" title="Java" alt="Java" height="30"/> | <img src="https://img.shields.io/badge/Spring%20Boot-white?style=plastic&logo=Spring%20Boot&logoColor=green" title="Spring Boot" alt="Spring Boot" height="30"/> |
+
+| Dependency Injection | Mocking | Caching | Database | Virtulization |
+| -------------------- | ------- | ------- | -------- | ------------- |
+| <img src="https://img.shields.io/badge/%F0%9F%97%A1%20Dagger-white?style=plastic" title="Dagger" alt="Dagger" height="30"/> | <img src="https://img.shields.io/badge/Mockito-white?style=plastic" title="Mockito" alt="Mockito" height="30"/> | <img src="https://img.shields.io/badge/Jedis%2FRedis-white?style=plastic&logo=redis&logoColor=dark%20red" title="Jedis" alt="Jedis" height="30"/> | <img src="https://img.shields.io/badge/DynamoDB-white?style=plastic&logo=Amazon%20DynamoDB&logoColor=black" title="dynamodb" alt="dynamodb" height="30"/> | <img src="https://img.shields.io/badge/Docker-white?style=plastic&logo=docker&logoColor=blue" title="docker" alt="docker" height="30"/> |
 </div>
 <br>
 
